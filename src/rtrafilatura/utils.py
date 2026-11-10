@@ -51,7 +51,7 @@ try:
     if sys.version_info >= (3, 14):
         from compression import zstd  # pragma: no cover
     else:
-        from backports import zstd  # type: ignore[no-redef]  # ty: ignore[unresolved-import]  # pragma: no cover
+        from backports import zstd  # type: ignore[no-redef]  # ty: ignore[import-not-found]  # pragma: no cover
 
     HAS_ZSTD = True  # pragma: no cover
 except ImportError:  # pragma: no cover
