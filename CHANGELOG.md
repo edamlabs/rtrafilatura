@@ -6,6 +6,10 @@ All notable changes to this project are documented in this file. The format foll
 
 ## [Unreleased]
 
+### Changed
+
+- Engine: trafilatura-rs 0.6.1 ([release notes](https://github.com/nchapman/trafilatura-rs/releases/tag/v0.6.1)).
+
 ## [0.2.0] - 2026-10-28
 
 ### Added
