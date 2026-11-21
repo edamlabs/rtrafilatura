@@ -862,7 +862,7 @@ Used by:
 - [displaydoc 0.2.7](https://github.com/yaahc/displaydoc)
 - [equivalent 1.0.3](https://github.com/indexmap-rs/equivalent)
 - [fastrand 2.5.0](https://github.com/smol-rs/fastrand)
-- [form_urlencoded 1.2.2](https://github.com/servo/rust-url)
+- [form_urlencoded 1.2.3](https://github.com/servo/rust-url)
 - [getopts 0.2.24](https://github.com/rust-lang/getopts)
 - [hashbrown 0.15.5](https://github.com/rust-lang/hashbrown)
 - [heck 0.5.0](https://github.com/withoutboats/heck)
@@ -890,7 +890,7 @@ Used by:
 - [tendril 0.5.1](https://github.com/servo/html5ever)
 - [unicode-normalization 0.1.26](https://github.com/unicode-rs/unicode-normalization)
 - [unicode-width 0.2.2](https://github.com/unicode-rs/unicode-width)
-- [url 2.5.8](https://github.com/servo/rust-url)
+- [url 2.5.9](https://github.com/servo/rust-url)
 - [web_atoms 0.2.6](https://github.com/servo/html5ever)
 - [xml5ever 0.39.0](https://github.com/servo/html5ever)
 
